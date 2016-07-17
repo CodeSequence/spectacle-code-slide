@@ -1,5 +1,5 @@
 {
-  "name": "spectacle-code-slide",
+  "name": "@codesequence/spectacle-code-slide",
   "version": "0.1.10",
   "description": "Present code with style.",
   "main": "lib/index.js",
